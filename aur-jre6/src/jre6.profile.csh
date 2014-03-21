@@ -1,0 +1,1 @@
+/home/ron/Desktop/aur-jre6/jre6.profile.csh

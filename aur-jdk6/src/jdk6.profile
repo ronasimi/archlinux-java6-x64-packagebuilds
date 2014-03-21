@@ -1,0 +1,1 @@
+/tmp/yaourt-tmp-ron/aur-jdk6/jdk6.profile
